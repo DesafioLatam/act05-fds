@@ -1,8 +1,6 @@
 ![](logo.png)
 
-# Actividades tercera semana
-
-## Sesión 1: Gráficos
+## Unidad 3: Variables Aleatorias y Gráficos - Sesión 1
 
 ### Genere una submuestra de casos acorde a lo siguiente:
 1. Utilice los últimos 4 dígitos de su rut como semilla pseudoaleatoria. Seleccione el 50% de los casos. Cada base generada debe contener los siguientes elementos:
